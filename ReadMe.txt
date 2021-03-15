@@ -1,7 +1,7 @@
 Google-Calendar_API
 
 A desktop application build on python runs on terminal uses google calendar API to list and create the events.
-It OAuth 2.0 and creates a json file name client_secret.json.
+It uses OAuth 2.0 which creates a json file name client_secret.json to run the API services.
 It runs on terminal.
 
 Files:
