@@ -8,10 +8,10 @@ def main():
    service = get_calendar_service()
 
    # User input date for event
-   print("Start : ", end ="")
+   print("Start (first enter the month then date sperated by a space): ", end ="")
    a,b = input().split()
    start = datetime(2021,int(a),int(b))
-   print("End : ", end ="")
+   print("End (first enter the month then date sperated by a space): ", end ="")
    a,b = input().split()
    end = datetime(2021,int(a),int(b))
    start = start.isoformat()
