@@ -12,7 +12,7 @@ The create_event.py file creates the event which is ask by the user to give the 
 
 Run:
 
-First create a virtual environment using command "python3 -m pip3 install --user virtualenv".
+First create a virtual environment using command "python3 -m venv virtual_env_name".
 Then after install all the libraries from requirements.txt using command "python3 -m pip3 install -r requirements.txt".
 Navigate the terminal directory where you have download this repository.
 Then run various .py files according to your need. 
